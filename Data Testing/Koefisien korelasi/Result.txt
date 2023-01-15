@@ -1,0 +1,7 @@
+Lubang Tengah 
+Manual 0.67 
+Auto   0.76
+
+Lubang Pinggir 
+Manual 0.57 
+Auto   0.65
