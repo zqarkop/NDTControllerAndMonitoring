@@ -13,7 +13,7 @@ You can use this project to controll and monitoring NDT process on your computer
 6. Done, now you can controll and monitoring NDT process
 
 ## Block Diagram
-![ALT TEXT](Image%20on%20PDF/Gambar%2034%20Blok%20DiagramNDT%20Controller%20and%20Monitoring.png)
+![ALT TEXT](Block%20diagram.png)
 
 ## Non-destructive Testing on progress
 ![ALT TEXT](Data%20Testing/Lubang%20Pinggir/Lubang%20pinggir%20langkah%201%20mm.png)
