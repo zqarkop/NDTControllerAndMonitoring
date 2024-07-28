@@ -12,6 +12,8 @@ You can use this project to controll and monitoring NDT process on your computer
 5. Supply NDT sensor to mini function generator
 6. Done, now you can controll and monitoring NDT process
 
+## Block Diagram
+![ALT TEXT](Image%20on%20PDF/Gambar%203.4%20Blok%20DiagramNDT%20Controller%20and%20Monitoring%20.png)
 
 ## Non-destructive Testing on progress
 ![ALT TEXT](Data%20Testing/Lubang%20Pinggir/Lubang%20pinggir%20langkah%201%20mm.png)
